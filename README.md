@@ -1,4 +1,5 @@
 # performant-shoes
+- Code formatting might be off because of code sandbox.
 - What I learned:
   - Creating an overlay on top of an image with pseudo-element, opacity, and background-url.
 ```css
